@@ -17,5 +17,7 @@ public class BothMethodIntoMainMethod {
     // Static method
     public static void name1() {
         System.out.println("Just let it go");
+        System.out.println("Make it more simple");
     }
+
 }
