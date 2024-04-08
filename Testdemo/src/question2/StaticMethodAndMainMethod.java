@@ -6,7 +6,10 @@ public class StaticMethodAndMainMethod {
 
     public static void main(String[] args) {
         System.out.println("Thank You"); // Main method
-
-
+        name5(); // Static method without using object
     }
+    public static void name5() {
+        System.out.println("You're Welcome!!!"); // Static method
+    }
+
 }
