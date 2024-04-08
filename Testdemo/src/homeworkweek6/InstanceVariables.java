@@ -1,4 +1,4 @@
-package question1;
+package homeworkweek6;
 
 public class InstanceVariables {
     public static void main(String[] args){
