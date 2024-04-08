@@ -11,7 +11,7 @@ public class InstanceMethod {
     }
     // Instance Methods
     public void  name() {
-        System.out.println("I am learning");
+        System.out.println("I am still learning....");
     }
 
 }

@@ -6,8 +6,12 @@ public class InstanceMethodAndMainMethod {
 
     // Main method
     public static void main(String[] args) {
-        System.out.println("Hey It's me Komal");
+        System.out.println("Hey It's me Komal.");
+        InstanceMethodAndMainMethod I = new InstanceMethodAndMainMethod();
+        I.name4();
     }
 
-
+public void name4() {
+    System.out.println("I am from India.");
+}
 }
