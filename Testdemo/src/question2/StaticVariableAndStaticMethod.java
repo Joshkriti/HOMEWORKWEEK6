@@ -1,7 +1,7 @@
 package question2;
 
 public class StaticVariableAndStaticMethod {
-    /* Question 1.3: Call both static variables
+    /* Question 2.3: Call both static variables
      into the static method inside the print statement */
 
     static String name2 = "Name:"; // Static Variable
