@@ -8,10 +8,17 @@ public class InstanceMethodAndStaticVariable {
 
     public static void main(String[] args){
         System.out.println(name); // access static variable without using object
-
-
+        // access instance method via object
+        InstanceMethodAndStaticVariable I = new InstanceMethodAndStaticVariable();
+        I.name1();
 
     }
+
+    // Creating instance method
+    public void name1() {
+        System.out.println("It's beautiful country.");
+    }
+
 
 
 }
