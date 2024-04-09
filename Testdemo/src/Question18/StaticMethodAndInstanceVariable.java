@@ -1,9 +1,9 @@
-package question17;
+package Question18;
 
 public class StaticMethodAndInstanceVariable {
-    // Question 17.4 Declare static method and call instance variable in print Statement.
+    // Question 18.4: Declare static method name address() and call instance variable
 
-    public String name = "Life";  // Creating instance variable
+    String name = "Love";  // Creating instance variable
 
 
 
