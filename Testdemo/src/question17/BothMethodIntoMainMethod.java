@@ -1,7 +1,7 @@
 package question17;
 
 public class BothMethodIntoMainMethod {
-    // Question 17.5 Call both user defined methods into main method.
+    // Question 18.5 Call both user defined methods into main method.
 
 
     public static void main(String[] args){
@@ -12,7 +12,7 @@ public class BothMethodIntoMainMethod {
     }
     // Instance method
     public void name() {
-        System.out.println("Stress");
+        System.out.println("Love");
     }
     // Static method
     public static void name1() {
