@@ -16,18 +16,18 @@ public class Question9 {
         int E = A / B;
 
         int F = 20;
-        float G = (float) (-3 * 5) /8;
-        float H = F + G;
+        double G =  (double) (-3 * 5) /8;
+        double H = F + G;
 
-        char K = 5 + 15 / 3;
+        int K = 5 + 15 / 3;
         int L = 2 - 8 % 3;
-        char M = (char) (K * L);
+        int N = K * L;
 
 
         System.out.println(V);
         System.out.println(E);
         System.out.println(H);
-        System.out.println(M);
+        System.out.println(N);
 
 
     }
