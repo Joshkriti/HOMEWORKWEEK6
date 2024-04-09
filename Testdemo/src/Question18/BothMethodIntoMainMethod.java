@@ -6,7 +6,7 @@ public class BothMethodIntoMainMethod {
 
     public static void main(String[] args){
         // access user defined instance method via object  (main method)
-        question17.BothMethodIntoMainMethod B = new question17.BothMethodIntoMainMethod();
+       BothMethodIntoMainMethod B = new  BothMethodIntoMainMethod();
         B.name();
         name1();  // access user defined static method without object (main method)
     }
