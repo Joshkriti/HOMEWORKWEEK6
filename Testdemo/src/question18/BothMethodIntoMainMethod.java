@@ -1,4 +1,4 @@
-package Question18;
+package question18;
 
 public class BothMethodIntoMainMethod {
     // Question 18.5 Call both user defined methods into main method.

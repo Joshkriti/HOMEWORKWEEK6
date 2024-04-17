@@ -1,4 +1,4 @@
-package Question18;
+package question18;
 
 public class InstanceVariable {
     // Question 18.2 Declare your house number as instance variables.
