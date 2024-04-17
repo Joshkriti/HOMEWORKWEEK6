@@ -1,4 +1,4 @@
-package Week5Homework;
+package week5homework;
 
 public class Question8 {
     /* Question 8: Write a Java program to divide two numbers and print on the screen.

@@ -1,4 +1,4 @@
-package Week5Homework;
+package week5homework;
 
 public class Question9 {
     /* Question 9: Write a Java program to print the result of the following operations.

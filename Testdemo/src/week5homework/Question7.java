@@ -1,4 +1,4 @@
-package Week5Homework;
+package week5homework;
 
 public class Question7 {
       /* Question 7: Write a Java program to print the sum of two numbers.
