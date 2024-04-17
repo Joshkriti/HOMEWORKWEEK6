@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Question12 {
     // Question 12. Same as above program-11 using switch statement.
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter character between A to F:");
         String city = sc.nextLine();
