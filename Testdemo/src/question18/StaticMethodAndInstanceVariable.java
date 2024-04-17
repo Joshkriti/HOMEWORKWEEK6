@@ -1,4 +1,4 @@
-package Question18;
+package question18;
 
 public class StaticMethodAndInstanceVariable {
     // Question 18.4: Declare static method name address() and call instance variable

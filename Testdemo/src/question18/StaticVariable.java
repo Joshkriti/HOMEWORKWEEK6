@@ -1,4 +1,4 @@
-package Question18;
+package question18;
 
 public class StaticVariable {
     // Question 18.1 Declare your council name as static variables.
@@ -7,6 +7,6 @@ public class StaticVariable {
     static String name =" London Borough of Brent";
 
     public static void main(String[] args){
-        System.out.println(name); // static variable
-    }
+        System.out.println(name);} // static variable
+
 }
