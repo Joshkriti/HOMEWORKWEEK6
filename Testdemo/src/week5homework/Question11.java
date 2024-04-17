@@ -1,4 +1,4 @@
-package Week5Homework;
+package week5homework;
 
 public class Question11 {
     /* Question 11: Write a Java program that takes a number as input and prints

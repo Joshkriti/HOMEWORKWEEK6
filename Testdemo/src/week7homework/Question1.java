@@ -5,7 +5,7 @@ public class Question1 {
 operator (? :) */
 
     public static void main(String[] args){
-        int number = 11 ;
+        int number = -9 ;
 
         /* Writing IF statement to find out if the above number is odd or even */
        if (number % 2 == 0) {
