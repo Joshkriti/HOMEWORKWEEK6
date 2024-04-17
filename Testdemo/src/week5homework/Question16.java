@@ -1,4 +1,4 @@
-package Week5Homework;
+package week5homework;
 
 public class Question16 {
     /* Question 16: Write program to display
