@@ -6,10 +6,11 @@ public class Question25 {
 
     public static void main(String[] args) {
         Question25 Q = new Question25();
-        System.out.println(Q.displayName());
+        String name = (Q.displayName("Komal"));
 
     }
-    private String displayName(){
-        return displayName();
+    private String displayName(String name){
+        System.out.println("I am " + name) ;
+        return name;
     }
 }
