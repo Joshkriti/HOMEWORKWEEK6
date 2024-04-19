@@ -11,9 +11,9 @@ public class Question_5 {
 
         if (number == number1) {
             System.out.println("Both are equal");
-        } else if (number > number1){
+        } else if (number > number1) {
             System.out.println(number + " is greater");
-        }else {
+        } else {
             System.out.println(number1 + " is greater");
 
         }
