@@ -15,7 +15,7 @@ Expected Output:
         // Creating loop to write 8 timetable
 
         for (int I = 0; I <= 10; I++){
-            System.out.println("8 * 1 " + (8*I));
+            System.out.println("8 * " + I + " = " + (8*I));
         }
     }
 }
